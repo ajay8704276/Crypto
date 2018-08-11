@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/4d405074f749dd36bbe61ea6a472e78b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c350ba9d96ffa471b2002e0a2eb8cf6b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/7493df938c18fa5b78c99c5193177213/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/d0dca75be231b480a7eb58e803f47840/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-android:2.13] /home/ajay/.gradle/caches/transforms-1/files-1.1/dagger-android-2.13.aar/13960ab5bc8e4227eebdbde6501d7159/AndroidManifest.xml:16:1-19:12
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0.aar/8b5be68c220c6fc13709c72ee59d9c1a/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08f00034a42164e896f7b5b1916e37ce/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3726ef471e7ac11f47d79f69308e403c/AndroidManifest.xml:17:1-30:12
+MERGED from [android.arch.lifecycle:reactivestreams:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/reactivestreams-1.1.0.aar/0afb6e9f683e9b4912abe371c7138c9a/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/d368f4f59a1861372413ae35459da133/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/337fbd9e4b4276b8a2e239063b5086f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/42069ae44f64cab5c0b7ef5b0d219c28/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/4a03392fcda4ca6571a70ccadd1050e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/fcc7402f5b0e2d22cb70ec2443df752f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/2bccd7a734ef4c60c1ef75c09888174a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2dd34987c33f23c4c80267de3d4df785/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/dc13245bbd3398bd075c4502eff58c1d/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/c742f1a3eb572da3a8610eea0f3a9fba/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/2b063222d469f59dd63f3945807c4dc3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/dc3563d2c1bea832cff596bfdbd61dc0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0aea60543fb9dbb23441657454caa6de/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8530c6e81f8397affa395fb2c1845657/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/de3b32d069aa7c910e2cf5461903604e/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c350ba9d96ffa471b2002e0a2eb8cf6b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c350ba9d96ffa471b2002e0a2eb8cf6b/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3726ef471e7ac11f47d79f69308e403c/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3726ef471e7ac11f47d79f69308e403c/AndroidManifest.xml:22:5-28:19
+	android:supportsRtl
+		ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.example.ajay.cryptoapp.MainActivity
+ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/4d405074f749dd36bbe61ea6a472e78b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/4d405074f749dd36bbe61ea6a472e78b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c350ba9d96ffa471b2002e0a2eb8cf6b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c350ba9d96ffa471b2002e0a2eb8cf6b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/7493df938c18fa5b78c99c5193177213/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/7493df938c18fa5b78c99c5193177213/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/d0dca75be231b480a7eb58e803f47840/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/d0dca75be231b480a7eb58e803f47840/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.13] /home/ajay/.gradle/caches/transforms-1/files-1.1/dagger-android-2.13.aar/13960ab5bc8e4227eebdbde6501d7159/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-android:2.13] /home/ajay/.gradle/caches/transforms-1/files-1.1/dagger-android-2.13.aar/13960ab5bc8e4227eebdbde6501d7159/AndroidManifest.xml:18:3-42
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0.aar/8b5be68c220c6fc13709c72ee59d9c1a/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0.aar/8b5be68c220c6fc13709c72ee59d9c1a/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08f00034a42164e896f7b5b1916e37ce/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/08f00034a42164e896f7b5b1916e37ce/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3726ef471e7ac11f47d79f69308e403c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3726ef471e7ac11f47d79f69308e403c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:reactivestreams:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/reactivestreams-1.1.0.aar/0afb6e9f683e9b4912abe371c7138c9a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:reactivestreams:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/reactivestreams-1.1.0.aar/0afb6e9f683e9b4912abe371c7138c9a/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/d368f4f59a1861372413ae35459da133/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/d368f4f59a1861372413ae35459da133/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/337fbd9e4b4276b8a2e239063b5086f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/337fbd9e4b4276b8a2e239063b5086f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/42069ae44f64cab5c0b7ef5b0d219c28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/42069ae44f64cab5c0b7ef5b0d219c28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/4a03392fcda4ca6571a70ccadd1050e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/4a03392fcda4ca6571a70ccadd1050e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/fcc7402f5b0e2d22cb70ec2443df752f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/fcc7402f5b0e2d22cb70ec2443df752f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/2bccd7a734ef4c60c1ef75c09888174a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/2bccd7a734ef4c60c1ef75c09888174a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2dd34987c33f23c4c80267de3d4df785/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/ajay/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2dd34987c33f23c4c80267de3d4df785/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/dc13245bbd3398bd075c4502eff58c1d/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/dc13245bbd3398bd075c4502eff58c1d/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/c742f1a3eb572da3a8610eea0f3a9fba/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/c742f1a3eb572da3a8610eea0f3a9fba/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/2b063222d469f59dd63f3945807c4dc3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/2b063222d469f59dd63f3945807c4dc3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/dc3563d2c1bea832cff596bfdbd61dc0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/dc3563d2c1bea832cff596bfdbd61dc0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0aea60543fb9dbb23441657454caa6de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0aea60543fb9dbb23441657454caa6de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8530c6e81f8397affa395fb2c1845657/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8530c6e81f8397affa395fb2c1845657/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/de3b32d069aa7c910e2cf5461903604e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/de3b32d069aa7c910e2cf5461903604e/AndroidManifest.xml:20:5-44
+INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ajay/AndroidStudioProjects/CryptoApp/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3726ef471e7ac11f47d79f69308e403c/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3726ef471e7ac11f47d79f69308e403c/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3726ef471e7ac11f47d79f69308e403c/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3726ef471e7ac11f47d79f69308e403c/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /home/ajay/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/3726ef471e7ac11f47d79f69308e403c/AndroidManifest.xml:24:13-83
