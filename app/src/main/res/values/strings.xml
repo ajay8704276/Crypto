@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CryptoApp</string>
+    <string name="cryptocurrency_error_message">crypto not found</string>
+</resources>
